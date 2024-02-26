@@ -14,7 +14,7 @@ resources/
 venv/
 testvid/
 dnn_model/
-\.flake8
+
 
 *.egg-info/
 *.spec
